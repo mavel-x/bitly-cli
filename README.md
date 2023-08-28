@@ -46,12 +46,6 @@ $ python3 path/to/the/script/main.py bit.ly/link-code
 Keep in mind that the script will not shorten links without the URL scheme supplied 
 (`http://`, `https://`, etc).
 
-## Project Purpose
-
-The code is written for educational purposes as part of 
-an online course for web developers at [dvmn.org](https://dvmn.org/).
-
 ## References
 - [Bitly Docs](https://dev.bitly.com/get_started.html)
 - [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)
-- [dvmn.org](https://dvmn.org/)
